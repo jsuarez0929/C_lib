@@ -1,4 +1,5 @@
-Contains sample programs/utilities written in C Programming language.
+### C_lib
+C library. Contains sample programs/utilities written in C Programming language.
 
 The following is the list of programs:
 - [x] Simple HTTP Web Server
